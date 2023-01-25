@@ -1,5 +1,5 @@
 # Abundant-patella
-a beautiful snail dancing some chillout
+A beautiful snail dancing some chillout
 
 ![buh](https://github.com/nicolasbaez/Abundant-patella/blob/main/ezgif-4-d922e3eb98.gif)
 ```javascript
